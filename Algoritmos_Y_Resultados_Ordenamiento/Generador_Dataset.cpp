@@ -69,10 +69,10 @@ void generarDataset(const string& nombreArchivo) {
 
     srand(time(0));  // Semilla para generación aleatoria
 
-    int cantidadAleatorio = 100 + rand() % 101;  // Entre 100 y 200
-    int cantidadSemiordenado = 100 + rand() % 101;
-    int cantidadParcialmenteOrdenado = 100 + rand() % 101;
-    int cantidadInvertido = 100 + rand() % 101;
+    int cantidadAleatorio = 100;
+    int cantidadSemiordenado = 100;
+    int cantidadParcialmenteOrdenado = 100;
+    int cantidadInvertido = 100;
 
     vector<int> vec;
 
