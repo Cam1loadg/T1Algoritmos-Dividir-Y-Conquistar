@@ -1,0 +1,5 @@
+Tamaño Matriz A,Tamaño Matriz B,Tiempo(microsegundos)
+128x128,128x128,18475
+2x2,2x2,1
+16x16,16x16,45
+16x16,16x16,41
